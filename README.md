@@ -1,5 +1,1 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha-src&theme=nightowl&show_icons=true"></img>
-  <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-src&layout=compact&theme=nightowl&show_icons=true"></img>
-</div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
