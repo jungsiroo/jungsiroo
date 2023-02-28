@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=🤓%20jungsiroo&fontSize=50)
 
 ### About Me 👐
-* 컴퓨터공학과 3학년 학부생
+* 컴퓨터공학과 4학년 학부생
 * **NLP, Recommendation** 에 흥미를 느낍니다.
 * **코드 해석과 리팩토링, 작성**에 강합니다.
-* 현재 **kakao 광고추천팀 인턴**으로 활동 중입니다.
+* **kakao 광고추천팀 인턴**으로 활동하였습니다.
 
 
 ### Projects 🕹️
