@@ -4,9 +4,10 @@
 
 ### About Me 👐
 * **IBK 기업은행 디지털** 부서 재직 중
+* * **Kakao 광고추천팀 인턴**으로 활동하였습니다.
 * **NLP, Recommendation** 에 흥미를 느낍니다.
 * **코드 해석과 리팩토링, 작성**에 강합니다.
-* **kakao 광고추천팀 인턴**으로 활동하였습니다.
+
 
 
 ### Projects 🕹️
@@ -17,7 +18,6 @@
 ### Competitions 🎲
 
 * 🔭 Korean AI - 한국어 경진대회 2022 본선 진출
-* 🌨️ 2022 AI 국방 대회 본선 진출
 * 🧲 Boostcamp AI Tech - Mask Image Classification
 * 🎙️ Boostcamp AI Tech - KLUE Relation Extraction
 * 🔌 Boostcamp AI Tech - Open-Domain Question Answering MRC
