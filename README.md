@@ -17,6 +17,7 @@
 
 ### Competitions 🎲
 
+* 🔨 Dacon - 웹기사 추천시스템 대회 13등
 * 🔭 Korean AI - 한국어 경진대회 2022 본선 진출
 * 🧲 Boostcamp AI Tech - Mask Image Classification
 * 🎙️ Boostcamp AI Tech - KLUE Relation Extraction
